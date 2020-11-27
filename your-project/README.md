@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Happiness in Western European Countries
+*Filipe Santos*
 
-*[Your Cohort, Campus & Date]*
+*Data Analytics, Barcelona, November 27th*
 
 ## Content
 - [Project Description](#project-description)
@@ -14,25 +14,27 @@
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+This project consists in 
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+1. Is it possible to measure happiness?
+2. Can we really say that Scandinavian countries are really the happiest countries?
+3. Is there a negative correlation between the Happiness Score of the countries and Mental Health disorders such as depression?
 
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
+The data was collected from the World Health Organization and from the World Happiness Report.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+1. Collect and clean the data;
+2. Combine the data and verify the relations;
+3. Take the conclusions.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+The repository is organized by type of documents. You can access to the Jupyter Notebook where it is possible to see the statistical treatment of the data and all the processes. Then, you also have access to the datasets that contain all the information and finally the
 
-What does your repository look like? Explain your folder and file structure.
+
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+https://github.com/FilipeMiguelSantos/Project-Week-5-Your-Own-Project/tree/master/your-project 
+https://filipemsantos.medium.com/happiness-in-the-western-european-countries-d963463c88d 
